@@ -1,11 +1,29 @@
 body {
-  font-family: Georgia;
-  background: white;
-  color: DarkBlue;
+  font-family:"Comic Sans MS";
+  background-image: url(source.gif);
+  background-size:cover;
+  color: rgba(255, 255, 255, 0.849);
   text-align:center;
   font-size:100%;
-header {
-  font-size: 1.5em;
-  font-family:"Kanit";
 }
-
+header {
+  text-align:center;
+  font-size: 1.5em;
+  font-family:"Comic Sans MS";
+  border: 3px solid black;
+  width: 300px;
+  margin: auto;
+  padding: 5px;
+  
+}
+input#userNameBtn {
+color: rgba(255, 255, 255, 0.849);;
+background-color: transparent;
+width: 60px;
+height: 30px;
+margin: 10px;
+}
+header1{
+width: 60px;
+height: 30px;
+}
