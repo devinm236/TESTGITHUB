@@ -8,13 +8,13 @@ body {
 }
 header {
   text-align:center;
-  font-size: 1.5em;
+  font-size: 2.5em;
   font-family:"Comic Sans MS";
-  border: 3px solid black;
+  border: 3px solid white;
   width: 300px;
   margin: auto;
   padding: 5px;
-  
+
 }
 input#userNameBtn {
 color: rgba(255, 255, 255, 0.849);;
@@ -23,7 +23,34 @@ width: 60px;
 height: 30px;
 margin: 10px;
 }
+p1{
+  font-style: italic;
+  color:#F29938;
+  font-size:1.15em;
+}
+p2 {
+  font-size:1.5em;
+}
 header1{
 width: 60px;
 height: 30px;
+}
+#MazeGame_Shape {
+  background:url(arleenfirst.jpg);
+}
+#Maze_Game {
+  color:white;
+  font-size: 1.15em;
+}
+#Word_Search {
+  color:white;
+  font-size:1.15em;
+}
+#userName {
+  font-size: 1.15em;
+  color:#F29938;
+}
+#index {
+  color:white;
+  font-size: 1.15em
 }
