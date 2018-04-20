@@ -1,72 +1,70 @@
-var canvas = document.querySelector("#MazeGame_Shape");
-   var context = canvas.getContext("2d");
+var canvas = document.getElementById('MazeGame_Shape');
 
-   var deltaX = 0;
-   var deltaY = 0;
+var context = canvas.getContext('2d');
 
-   window.addEventListener("keydown", keysPressed, false);
-   window.addEventListener("keyup", keysReleased, false);
+var canvasPos = getPosition(canvas);
+var keyX = 50;
+var keyY = 50;
 
-   var keys = [];
+function setKeyPosition(e){
+  keyX = e.clientX - canvasPos.x;
+  keyY = e.clientY - canvasPos.y;
+}
 
-   function keysPressed(e) {
-       // store an entry for every key pressed
-       keys[e.keyCode] = true;
+window.addEventListener("keydown", keysPressed, false);
+window.addEventListener("keyup", keysReleased, false);
 
-       // left
-       if (keys[37]) {
-         deltaX -= 10;
-       }
+var keys = [];
+function keysPressed(e) {
+  keys[e.keyCode]=true;
 
-       // right
-       if (keys[39]) {
-         deltaX += 10;
-       }
+  if(keys[37]){
+    keyX -= 10;
+  }
 
-       // down
-       if (keys[38]) {
-         deltaY -= 10;
-       }
+  if(keys[39]){
+    keyX += 10;
+  }
 
-       // up
-       if (keys[40]) {
-         deltaY += 10;
-       }
+  if(keys[38]){
+    keyY -= 10;
+  }
 
-   e.preventDefault();
-   }
+  if(keys[40]){
+    keyY += 10;
+  }
+  e.preventDefault ();
+}
 
-   function keysReleased(e) {
-       // mark keys that were released
-       keys[e.keyCode] = false;
-   }
+function keysReleased(e){
 
-   function drawTriangle(x, y) {
-     // the triangle
-     context.beginPath();
-     context.moveTo(x + 200, y + 100);
-     context.lineTo(x + 170, y + 150);
-     context.lineTo(x + 230, y + 150);
-     context.closePath();
+  keys[e.keyCode] = false;
+}
 
-     // the outline
-     context.lineWidth = 5;
-     context.strokeStyle = "rgba(102, 102, 102, 1)";
-     context.stroke();
+function circle () {
+  context.clearRect(0,0, canvas.width, canvas.height);
+  context.beginPath ();
+  context.arc(keyX, keyY, 50, 0, 2 * Math.PI, true);
+  context.fillStyle = "#FF6A6A";
+  context.fill();
+  requestAnimationFrame(circle);
+  if(keyX > 200 || keyY > 200) {
+    keyX = 0;
+    keyY = 0;
+  }
 
-     // the fill color
-     context.fillStyle = (255, 204, 0, 1, '#D70FA2');
-     context.fill();
-     context.font = "25px Sans Serif";
-     context.textAlign = "center"
-     context.fillText("Welcome to the wonderful world of canvas...", 500, 50);
-   }
-
-   function animate() {
-     context.clearRect(0, 0, canvas.width, canvas.height);
-
-     drawTriangle(deltaX, deltaY);
-
-     requestAnimationFrame(animate);
-   }
-   animate();
+}
+circle();
+function getPosition(el){
+  var xPosition = 0;
+  var yPosition = 0;
+  while (el) {
+    xPosition += (el.offsetLeft - el.scrollLeft + el.clientLeft);
+    yPosition += (el.offsetTop - el.scrollTop + el.clientTop);
+    el = el.offsetParent;
+  }
+  return {
+    x: xPosition,
+    y: yPosition,
+  };
+}
