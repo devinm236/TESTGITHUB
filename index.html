@@ -8,31 +8,34 @@
   <title> Final Project </title>
   <link href="style.css" rel="stylesheet" type="text/css">
   <nav>
-    <a href= "MazeGame.html">Maze Game </a> |
-    <a href="WordSearch.html">Word Search </a> |
+    <a href= "MazeGame.html", id= "Maze_Game">Maze Game </a> |
+    <a href="WordSearch.html", id= "Word_Search">Word Search </a>
   </nav>
 </head>
 <body>
   <section>
-  <!-- This is modified from W3Schools.com https://www.w3schools.com/js/tryit.asp?filename=tryjs_form_submit -->
-    <p> Enter a username in the field below </p>
-    <form id="userName">
-      Username: <input type="text" id= "playerName" name="userName">
-      <input type= "button" id= "userNameBtn" placeholder="enter username..." autofocus id = "name" value = "Submit" onclick= "UserName ()" >
-    </form>
+    <!-- This is modified from W3Schools.com https://www.w3schools.com/js/tryit.asp?filename=tryjs_form_submit -->
+      <p1> Enter a username in the field below </p1>
+      <form id="userName">
+        Username: <input type="text" id="playerName" autofocus id = "name" name="userName">
+        <input type= "button" id= "userNameBtn" placeholder="enter username..." value = "Submit" onclick= "UserName ()" >
+      </form>
+      <script src= "UserName.js"></script>
+    </section>
+    <section>
+      <p2>
+        Click on the game you would like to play
+      </p2>
+      <figure>
+        <img src ="Maze_Game_1.jpg" width="200px" height="200px" />
+        <figcaption>
+          <a href="MazeGame.html", id= "Maze_Game"> Maze Game </a>
+        </figcaption>
+        <img src= "Word_Search_1.jpg" width="200px" height= "200px" />
+        <figcaption>
+          <a href="WordSearch.html", id="Word_Search"> Word Search </a>
+        </figcaption>
+      </figure>
+    </section>
     <script src= "UserName.js"></script>
   <section>
-    <p1>
-      Click on the game you would like to play
-    </p1>
-    <figure>
-      <img src ="Maze_Game_1.jpg" width="200px" height="200px" />
-      <figcaption>
-        <a href="MazeGame.html"> Maze Game </a>
-      </figcaption>
-      <img src= "Word_Search_1.png" width="200px" height= "200px" />
-      <figcaption>
-        <a href="WordSearch.html"> Word Search </a>
-      </figcaption>
-    </figure>
-  </section>
