@@ -16,15 +16,15 @@ var blockDetails = [
 		color: 'blue',
 	},
   {
-    x:555,
-    y:6,
+    x:550,
+    y:10,
     width:5,
     height:600,
     color:'blue',
   },
   {
     x: 0,
-    y: 545,
+    y: 540,
     width: 510,
     height: 5,
     color: 'blue',
@@ -492,9 +492,9 @@ var blockDetails = [
 		color: 'red'
 	},
   {
-		x: 140,
+		x: 165,
 		y: 161,
-		width: 110,
+		width: 87,
     height: 5,
 		color: 'red'
   },
@@ -1444,7 +1444,6 @@ Ball.prototype.userControl = function( key ) {
 	} else if (key === 40) {
 		ball.userMove(0, 5);
 	}
-  e.preventDefault (); 
 };
 
 // 5. update prototype - user movement of ball
