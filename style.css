@@ -36,7 +36,7 @@ width: 60px;
 height: 30px;
 }
 #MazeGame_Shape {
-  background:url(Maze_Game_1.jpg);
+  background: white;
 }
 #Maze_Game {
   color:white;
@@ -54,3 +54,7 @@ height: 30px;
   color:white;
   font-size: 1.15em
 }
+#can {
+  background:url(Word_Search_5.jpg);
+}
+
