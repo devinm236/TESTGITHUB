@@ -1,3 +1,4 @@
+//Modified code from Dr. Nicolas Hayward - github basic ball move 5 
 //This is getting the specific ID from the html
 var canvas = document.getElementById('MazeGame_Shape');
 //This is setting the context of the canvas to be 2D
