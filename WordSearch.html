@@ -10,9 +10,24 @@
     <a href="MazeGame.html", id="Maze_Game">Maze Game </a> |
   </nav>
   <title> Word Search </title>
-  <link href="style.css" rel="stylesheet" type="text/css">
-  <section>
-    <figure>
-    <img src="Word_Search_1.jpg" width="820px" heigh="720">
-  </figure>
-
+<body>
+<link href = "style.css" rel="styleSheet" type="text/css"/>
+<section>
+  <p1>
+    To play the word search click the color you would like and then circle or hightlight the specified word
+  </p1>
+  <!--Modified code from Modified code from stack overflow user1083202 (12/1/2011) and Kauê Gimenes (03/22/2016)-->
+   <script src="wordSearch_Canvas.js" id='Can'></script>
+   <body onload="init()">
+       <canvas id="can" width="400" height="400" style="position:absolute;top:27%;left:10%;border:2px solid;"></canvas>
+       <div style="position:absolute;top:30%;left:2%;width:50px;height:50px;background:green;" id="green" onclick="color(this)"></div>
+       <div style="position:absolute;top:39%;left:2%;width:50px;height:50px;background:blue;" id="blue" onclick="color(this)"></div>
+       <div style="position:absolute;top:48%;left:2%;width:50px;height:50px;background:red;" id="red" onclick="color(this)"></div>
+       <div style="position:absolute;top:57%;left:2%;width:50px;height:50px;background:yellow;" id="yellow" onclick="color(this)"></div>
+       <div style="position:absolute;top:66%;left:2%;width:50px;height:50px;background:orange;" id="orange" onclick="color(this)"></div>
+       <div style="position:absolute;top:75%;left:2%;width:50px;height:50px;background:black;" id="black" onclick="color(this)"></div>
+       <input type="button" value="save" id="btn" size="30" onclick="save()" style="position:absolute;top:40%;left:50%;">
+       <input type="button" value="clear" id="clr" size="23" onclick="erase()" style="position:absolute;top:49%;left:50%;">
+     </section>
+    </body>
+   </html>
