@@ -16,16 +16,16 @@ var blockDetails = [
     height: 8,
 		color: 'blue',
 	},
-  {
-    x:550,
-    y:10,
+ {
+    x:555,
+    y:6,
     width:5,
     height:600,
     color:'blue',
   },
   {
     x: 0,
-    y: 540,
+    y: 545,
     width: 510,
     height: 5,
     color: 'blue',
