@@ -14,1337 +14,1337 @@ var blockDetails = [
 		y: -2,
 		width: 600,
     height: 8,
-		color: 'blue',
+		color: 'white',
 	},
  {
     x:555,
     y:6,
     width:5,
     height:600,
-    color:'blue',
+    color:'white',
   },
   {
     x: 0,
     y: 545,
     width: 510,
     height: 5,
-    color: 'blue',
+    color: 'white',
   },
   {
     x:0,
     y:10,
     width:5,
     height:600,
-    color:'blue'
+    color:'white'
   },
   {
 		x: 29,
 		y: 24,
 		width: 55,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 110,
 		y: 24,
 		width: 30,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 110,
 		y: 5,
 		width: 5,
     height: 20,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 165,
 		y: 5,
 		width: 5,
     height: 25,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 192,
 		y: 5,
 		width: 5,
     height: 79,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 220,
 		y: 5,
 		width: 5,
     height: 79,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 220,
 		y: 50,
 		width: 30,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 247,
 		y: 50,
 		width: 5,
     height: 35,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 245,
 		y: 24,
 		width: 90,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 301,
 		y: 24,
 		width: 5,
     height: 32,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 330,
 		y: 24,
 		width: 5,
     height: 57,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 330,
 		y: 78,
 		width: 28,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 385,
 		y: 5,
 		width: 5,
     height: 23,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 357,
 		y: 24,
 		width: 59,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 412,
 		y: 24,
 		width: 5,
     height: 30,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 441,
 		y: 24,
 		width: 84,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 522,
 		y: 5,
 		width: 5,
     height: 24,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 5,
 		y: 52,
 		width: 25,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 53,
 		y: 25,
 		width: 5,
     height: 55,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 53,
 		y: 79,
 		width: 29,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 81,
 		y: 52,
 		width: 5,
     height: 112,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 109,
 		y: 51,
 		width: 31,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 109,
 		y: 51,
 		width: 5,
     height: 57,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 137,
 		y: 51,
 		width: 5,
     height: 32,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 164,
 		y: 51,
 		width: 5,
     height: 57,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 164,
 		y: 106,
 		width: 85,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 220,
 		y: 110,
 		width: 5,
     height: 53,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 246,
 		y: 106,
 		width: 5,
     height: 30,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 246,
 		y: 133,
 		width: 30,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 274.5,
 		y: 49,
 		width: 5,
     height: 116,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 82,
 		y: 106,
 		width: 57,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 5,
 		y: 106,
 		width: 25,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 26,
 		y: 80,
 		width: 5,
     height: 31,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 110,
 		y: 5,
 		width: 5,
     height: 20,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 270,
 		y: 133,
 		width: 35,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 275,
 		y: 106,
 		width: 29,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 301,
 		y: 80,
 		width: 5,
     height: 31,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 360,
 		y: 106,
 		width: 25,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 357,
 		y: 53,
 		width: 5,
     height: 84,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 385,
 		y: 51,
 		width: 32,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 440,
 		y: 51,
 		width: 58,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 524,
 		y: 51,
 		width: 28,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 385,
 		y: 55,
 		width: 5,
     height: 107,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 440,
 		y: 24,
 		width: 5,
     height: 85,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 467,
 		y: 51,
 		width: 5,
     height: 33,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 412,
 		y: 78.5,
 		width: 30,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 496,
 		y: 78.5,
 		width: 30,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 523,
 		y: 78.5,
 		width: 5,
     height: 30,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 523,
 		y: 105,
 		width: 28,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 496,
 		y: 133,
 		width: 55,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 495,
 		y: 107,
 		width: 5,
     height: 31,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 413,
 		y: 106,
 		width: 32,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 466,
 		y: 106,
 		width: 34,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 53,
 		y: 105,
 		width: 5,
     height: 30,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 329,
 		y: 105,
 		width: 5,
     height: 60,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 27,
 		y: 133,
 		width: 85,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 165,
 		y: 133,
 		width: 30,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 330,
 		y: 133,
 		width: 32,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 5,
 		y: 160,
 		width: 23,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 26,
 		y: 133,
 		width: 5,
     height: 60,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 137,
 		y: 106,
 		width: 5,
     height: 170,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 110,
 		y: 133,
 		width: 5,
     height: 59,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 55,
 		y: 161,
 		width: 31,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 26,
 		y: 188,
 		width: 32,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 82,
 		y: 188,
 		width: 32,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 165,
 		y: 161,
 		width: 87,
     height: 5,
-		color: 'red'
+		color: 'white'
   },
   {
 		x: 191,
 		y: 133,
 		width: 5,
     height: 59,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 191,
 		y: 188,
 		width: 31,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 247,
 		y: 161,
 		width: 5,
     height: 30,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 302,
 		y: 137,
 		width: 5,
     height: 107,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 357,
 		y: 161,
 		width: 5,
     height: 58,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 330,
 		y: 161,
 		width: 28,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 385,
 		y: 161,
 		width: 140,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 413,
 		y: 135,
 		width: 5,
     height: 30,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 440,
 		y: 135,
 		width: 5,
     height: 30,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 467,
 		y: 135,
 		width: 5,
     height: 30,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 5,
 		y: 215,
 		width: 53,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 82,
 		y: 215,
 		width: 55,
     height: 5,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 164,
 		y: 190,
 		width: 5,
     height: 83,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 26,
 		y: 220,
 		width: 5,
     height: 28,
-		color: 'red'
+		color: 'white'
 	},
   {
 		x: 82,
 		y: 220,
 		width: 5,
     height: 27,
-		color: 'red'
+		color: 'white'
 	},
   {
     x: 55,
     y: 242,
     width: 27,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 192,
     y: 216,
     width: 58,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 192,
     y: 216,
     width: 5,
     height: 29,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 109,
     y: 216,
     width: 5,
     height: 58,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 167,
     y: 243,
     width: 30,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 220,
     y: 220,
     width: 5,
     height: 27,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 247,
     y: 216,
     width: 5,
     height: 58,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 274,
     y: 190,
     width: 5,
     height: 84,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 330,
     y: 188,
     width: 27,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 385,
     y: 188,
     width: 59,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 468,
     y: 188,
     width: 60,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 468,
     y: 190,
     width: 5,
     height: 110,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 305,
     y: 215,
     width: 28,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 330,
     y: 189,
     width: 5,
     height: 60,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 384,
     y: 189,
     width: 5,
     height: 112,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 358,
     y: 215,
     width: 57,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 468,
     y: 215,
     width: 58,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 495,
     y: 218,
     width: 5,
     height: 167,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 357,
     y: 242,
     width: 87,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 440,
     y: 217,
     width: 5,
     height: 29,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 523,
     y: 215,
     width: 5,
     height: 60,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 25,
     y: 271,
     width: 5,
     height: 30,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 5,
     y: 298,
     width: 25,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 54,
     y: 272,
     width: 5,
     height: 168,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 82,
     y: 272,
     width: 5,
     height: 248,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 109,
     y: 298,
     width: 5,
     height: 140,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 137,
     y: 298,
     width: 5,
     height: 115,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 191,
     y: 298,
     width: 5,
     height: 90,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 219,
     y: 270,
     width: 5,
     height: 56,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 302,
     y: 270,
     width: 5,
     height: 85,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 330,
     y: 270,
     width: 5,
     height: 85,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 440,
     y: 270,
     width: 5,
     height: 85,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 523,
     y: 297,
     width: 5,
     height: 85,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 26,
     y: 325,
     width: 5,
     height: 167,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 56,
     y: 379,
     width: 27,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 164,
     y: 270,
     width: 55,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 274,
     y: 270,
     width: 28,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 112,
     y: 352,
     width: 25,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 165,
     y: 297,
     width: 30,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 335,
     y: 270,
     width: 25,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 415,
     y: 270,
     width: 25,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 359,
     y: 297,
     width: 29,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 167,
     y: 325,
     width: 140,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 333,
     y: 325,
     width: 27,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 388,
     y: 325,
     width: 80,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 440,
     y: 297,
     width: 33,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 246,
     y: 297,
     width: 5,
     height: 168,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 274,
     y: 298,
     width: 5,
     height: 27,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 413,
     y: 298,
     width: 5,
     height: 27,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 468,
     y: 325,
     width: 5,
     height: 30,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 140,
     y: 379,
     width: 27,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 165,
     y: 352,
     width: 27,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 220,
     y: 352,
     width: 58,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 303,
     y: 352,
     width: 31,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 359,
     y: 352,
     width: 28,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 414,
     y: 352,
     width: 30,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 82,
     y: 406,
     width: 27,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 166,
     y: 406,
     width: 55,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 219,
     y: 379,
     width: 28,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 330,
     y: 379,
     width: 57,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 413,
     y: 379,
     width: 57,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 523,
     y: 379,
     width: 27,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 275,
     y: 352,
     width: 5,
     height: 32,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 385,
     y: 352,
     width: 5,
     height: 58,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 412,
     y: 352,
     width: 5,
     height: 85,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 468,
     y: 380,
     width: 5,
     height: 30,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 302,
     y: 380,
     width: 5,
     height: 27,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 329,
     y: 380,
     width: 5,
     height: 113,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 219,
     y: 380,
     width: 5,
     height: 160,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 302,
     y: 407,
     width: 29,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 358,
     y: 407,
     width: 85,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 468,
     y: 407,
     width: 29,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 495,
     y: 407,
     width: 5,
     height: 30,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 523,
     y: 407,
     width: 5,
     height: 113,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 5,
     y: 460,
     width: 80,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 110,
     y: 460,
     width: 28,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 275,
     y: 460,
     width: 30,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 358,
     y: 460,
     width: 30,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 470,
     y: 460,
     width: 30,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 165,
     y: 432,
     width: 57,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 274,
     y: 408,
     width: 5,
     height: 85,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 357,
     y: 408,
     width: 5,
     height: 30,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 440,
     y: 407,
     width: 5,
     height: 57,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 467,
     y: 435,
     width: 5,
     height: 83,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 136,
     y: 435,
     width: 5,
     height: 30,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 192,
     y: 435,
     width: 5,
     height: 60,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 302,
     y: 435,
     width: 5,
     height: 30,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 357,
     y: 434,
     width: 32,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 384,
     y: 460,
     width: 5,
     height: 58,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 53,
     y: 460,
     width: 5,
     height: 58,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 109,
     y: 460,
     width: 5,
     height: 80,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 164,
     y: 455,
     width: 5,
     height: 64,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 412,
     y: 463,
     width: 5,
     height: 78,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 26,
     y: 515,
     width: 5,
     height: 26,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 136,
     y: 490,
     width: 5,
     height: 50,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 248,
     y: 488,
     width: 82,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 496,
     y: 488,
     width: 28,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 140,
     y: 515,
     width: 55,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 246,
     y: 488,
     width: 5,
     height: 31,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 302,
     y: 488,
     width: 5,
     height: 52,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 357,
     y: 488,
     width: 5,
     height: 30,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 440,
     y: 488,
     width: 5,
     height: 52,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 495,
     y: 488,
     width: 5,
     height: 51,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 274,
     y: 515,
     width: 5,
     height: 26,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 303,
     y: 515,
     width: 86,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
   {
     x: 440,
     y: 515,
     width: 31,
     height: 5,
-    color: 'red'
+    color: 'white'
   },
 ];
 
