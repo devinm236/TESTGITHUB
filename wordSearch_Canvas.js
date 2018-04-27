@@ -1,4 +1,4 @@
-//Modified code from stack overflow user1083202 (12/1/2011) and Kauê Gimenes (03/22/2016)
+//Modified code from stack overflow user1083202 (12/1/2011) and Kauê Gimenes (03/22/2016) https://stackoverflow.com/questions/2368784/draw-on-html5-canvas-using-a-mouse
 var canvas, ctx, flag = false,
     prevX = 0,
     currX = 0,
