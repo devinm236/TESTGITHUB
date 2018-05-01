@@ -49,12 +49,12 @@ function color(obj) {
         case "black":
             x = "black";
             break;
-        case "white":
-            x = "white";
-            break;
+        //case "white":
+            //x = "white";
+            //break;
     }
-    if (x == "white") y = 14;
-    else y = 2;
+    //if (x == "white") y = 14;
+    //else y = 2;
 
 }
 
